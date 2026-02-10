@@ -22,12 +22,4 @@ This project is a backend application for a calendar booking system. It allows u
 - SQLite
 - Nodemon
 
----
-
-## ⚙️ Project Setup & Run Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/calendar-booking-backend.git
-cd calendar-booking-backend
 
